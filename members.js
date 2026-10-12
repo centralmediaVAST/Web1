@@ -1,0 +1,23 @@
+// Replace these sample names and profile details with the Central Media team.
+const members = [
+  { slug: "member-01", name: "Ms. Surabhi M S", role: "Staff Coordinator", bio: "Add a short introduction and professional background for this member.", email: "surabhi.m.s@vidyaacademy.ac.in", image: "" },
+  { slug: "member-02", name: "Aswin T R", role: "Student Coordinator", bio: "Add a short introduction and professional background for this member.", email: "tl23btce0538@vidyaacademy.ac.in", instagram: "aswin_sonuzz", image: "" },
+  { slug: "member-03", name: "Gopika K", role: "Student Sub Coordinator", bio: "Add a short introduction and professional background for this member.", email: "tl24btec0099@vidyaacademy.ac.in", instagram: "gopika.suresh._",image: "" },
+  { slug: "member-04", name: "Mohammed Naseef V A", role: "Member", bio: "Add a short introduction and professional background for this member.", email: "hello@centralmedia.studio", image: "" },
+  { slug: "member-05", name: "Aryan Srinivas", role: "Member", bio: "Add a short introduction and professional background for this member.", email: "hello@centralmedia.studio", image: "" },
+  { slug: "member-06", name: "Arjun Krishna", role: "Member", bio: "Add a short introduction and professional background for this member.", email: "hello@centralmedia.studio", image: "" },
+  { slug: "member-07", name: "Jasmin R A", role: "Member", bio: "Add a short introduction and professional background for this member.", email: "hello@centralmedia.studio", image: "" },
+  { slug: "member-08", name: "Blesswin C A", role: "Volunteer", bio: "Add a short introduction and professional background for this member.", email: "hello@centralmedia.studio", image: "" },
+  { slug: "member-09", name: "Parnika Thilak", role: "Volunteer", bio: "Add a short introduction and professional background for this member.", email: "hello@centralmedia.studio", image: "" },
+  { slug: "member-10", name: "Pavithra", role: "Volunteer", bio: "Add a short introduction and professional background for this member.", email: "hello@centralmedia.studio", image: "" },
+  { slug: "member-11", name: "Sreenanda", role: "Volunteer", bio: "Add a short introduction and professional background for this member.", email: "hello@centralmedia.studio", image: "" },
+  { slug: "member-12", name: "Archana K V", role: "Volunteer", bio: "Add a short introduction and professional background for this member.", email: "hello@centralmedia.studio", image: "" },
+  { slug: "member-13", name: "Evelin Rose Tony", role: "Volunteer", bio: "Add a short introduction and professional background for this member.", email: "hello@centralmedia.studio", image: "images/Evelin.jpeg" },
+  { slug: "member-14", name: "Aamin K B", role: "Volunteer", bio: "Add a short introduction and professional background for this member.", email: "hello@centralmedia.studio", image: "images/Aamin.jpeg" },
+  { slug: "member-15", name: "Resmi C R", role: "Volunteer", bio: "Add a short introduction and professional background for this member.", email: "hello@centralmedia.studio", image: "" },
+  { slug: "member-16", name: "Afham", role: "Volunteer", bio: "Add a short introduction and professional background for this member.", email: "hello@centralmedia.studio", image: "" },
+  { slug: "member-17", name: "Ansil", role: "Volunteer", bio: "Add a short introduction and professional background for this member.", email: "hello@centralmedia.studio", image: "" },
+  { slug: "member-18", name: "Arun", role: "Volunteer", bio: "Add a short introduction and professional background for this member.", email: "hello@centralmedia.studio", image: "" },
+  { slug: "member-19", name: "Sooraj", role: "Volunteer", bio: "Add a short introduction and professional background for this member.", email: "hello@centralmedia.studio", image: "" },
+  { slug: "member-20", name: "Member Twenty", role: "Social Media Manager", bio: "Add a short introduction and professional background for this member.", email: "hello@centralmedia.studio", image: "" },
+];
